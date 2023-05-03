@@ -1,0 +1,30 @@
+.story {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.titles {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+body {
+    background-color: #FC6A03;
+}
+
+#turtlelove {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+#whatbroughtyou {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+#reasons {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
